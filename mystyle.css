@@ -1,0 +1,35 @@
+body {
+    background-color:lightgray
+}
+h1 {
+    text-align: center;
+}
+
+.rapport {
+    border-style: outset;
+    text-align: left;
+    height: 400;
+    width: 17%;
+    margin: 20px;
+}
+
+.links {
+    text-align: left;
+    width: 300px;
+    border: 15px solid white;
+    padding: 50px;
+    margin: 20px;
+}
+
+.shame
+{
+    text-decoration: line-through;
+}
+
+.info
+{
+    font-size: 30px;
+    text-align: justify;
+    padding-left: 340px;
+    padding-right: 340px;
+}
